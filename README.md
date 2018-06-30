@@ -1,6 +1,8 @@
 # Test-Automation---Selenium---TestNG--Maven---Page-Factory-Concept-in-Github-Website
 Page Factory is an optimized way to create object repository in POM concept.
 
+Let's see what was created:
+
 ⍻ 2 Positive TCs
 
 ♯ All WebElements are identified by @FindBy annotation
